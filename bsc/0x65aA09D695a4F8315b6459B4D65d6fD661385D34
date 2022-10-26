@@ -1,0 +1,11 @@
+{
+ "name": "POSEIDON Token",
+ "website": "https://t.me/poseidon168",
+ "description": "PSD (POSEIDON) 是一个跨平台与区块链结合在一起的生态娱乐社交币，内置数字资产PSD代币。通过用户使用PSD购物娱乐和经济体系等行为激励机制。PSD为了确保生态品质，PSD有许多娱乐项目 ·竞猜/盲盒/单机/联机/NFT/GAMEFI·。让开发者开发出真正能够帮助社区用户，同时鼓励用户成为POSEIDON社区的活跃成员并一同享受社区福利。",
+ "explorer": "https://bscscan.com/token/0x65aA09D695a4F8315b6459B4D65d6fD661385D34",
+ "type": "BEP20",
+ "symbol": "PSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x65aA09D695a4F8315b6459B4D65d6fD661385D34"
+}
